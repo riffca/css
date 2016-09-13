@@ -5,3 +5,4 @@
 ##[css refresh](https://habrahabr.ru/post/273471/)
 ##[fix flickering sticky issue](http://stackoverflow.com/questions/18185736/prevent-fixed-position-element-from-flickering-during-jquery-animation)
 ##[svg example](http://css.yoksel.ru/svg-decoration/)
+##[post css ru](https://habrahabr.ru/post/265449/)
