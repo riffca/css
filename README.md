@@ -8,3 +8,4 @@
 ##[post css ru](https://habrahabr.ru/post/265449/)
 ##[web font SF](https://vk.com/sanfranciscofont?z=photo-107060457_421604197%2Falbum-107060457_00%2Frev)
 ##[loaders](http://tobiasahlin.com/spinkit/)
+##[flexbox шпаргалка](https://habrahabr.ru/post/313938/)
